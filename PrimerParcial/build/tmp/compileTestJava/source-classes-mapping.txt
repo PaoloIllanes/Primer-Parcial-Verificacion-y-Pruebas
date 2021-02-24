@@ -1,0 +1,4 @@
+p1test/PrimeTest.java
+ p1test.PrimeTest
+p2Test/Ej2Test.java
+ p2Test.Ej2Test
